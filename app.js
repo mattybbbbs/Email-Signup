@@ -65,8 +65,3 @@ app.listen(port, () => {
 })
 
 
-//API Key 75054d24642ab77483c6c93e943ee1f7-us1
-
-//List ID e9cd9b65eb
-
-//'https://server.api.mailchimp.com/3.0/lists/
